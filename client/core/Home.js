@@ -4,7 +4,7 @@ import Card from "@material-ui/core/Card";
 import CardMedia from "@material-ui/core/CardMedia";
 import CardContent from "@material-ui/core/CardContent";
 import Typography from "@material-ui/core/Typography";
-import socialMediaImg from "./../assets/images/social media.png";
+import socialMediaImg from "./../assets/images/unicornbike.jpg";
 import Grid from "@material-ui/core/Grid";
 import auth from "./../auth/auth-helper";
 import FindPeople from "./../user/FindPeople";
